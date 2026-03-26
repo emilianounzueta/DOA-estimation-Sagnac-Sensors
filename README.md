@@ -8,6 +8,8 @@ The project translates and extends MATLAB-based signal processing
 algorithms into Python, integrating tools commonly used in Data Science
 and Scientific Computing.
 
+![Texto alternativo de la imagen](figures/1.sagnac_sensor_system.png)
+*Figura 1: Descripción de la gráfica de dispersión de los datos.*
 ------------------------------------------------------------------------
 
 Project Overview
