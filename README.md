@@ -1,4 +1,4 @@
-🎧 Acoustic DOA Estimation using CCV and MUSIC
+Acoustic DOA Estimation using CCV and MUSIC
 
 This repository presents a complete and reproducible pipeline for
 Direction of Arrival (DOA) estimation using acoustic signals acquired
@@ -10,7 +10,7 @@ and Scientific Computing.
 
 ------------------------------------------------------------------------
 
-📌 Project Overview
+Project Overview
 
 The goal of this project is to estimate the angle of arrival of an
 acoustic source using experimental data and advanced signal processing
@@ -23,7 +23,7 @@ Two main methods are implemented and compared:
 
 ------------------------------------------------------------------------
 
-🧠 Methodology
+Methodology
 
 CCV Method
 
@@ -40,7 +40,7 @@ MUSIC Algorithm
 
 ------------------------------------------------------------------------
 
-📊 Notebooks
+Notebooks
 
 01_signal_loading_and_fft.ipynb
 
@@ -57,7 +57,7 @@ MUSIC Algorithm
 
 ------------------------------------------------------------------------
 
-📁 Dataset
+Dataset
 
 -   1024 samples
 -   13 positions
@@ -68,7 +68,7 @@ Structure: [samples, position, measurement]
 
 ------------------------------------------------------------------------
 
-⚙️ Installation
+Installation
 
 git clone https://github.com/emilianounzueta/acoustic-doa-estimation.git
 
@@ -76,24 +76,23 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------
 
-📦 Requirements
+Requirements
 
 numpy scipy matplotlib jupyter
 
 ------------------------------------------------------------------------
 
-📄 Article
+Article
 
 https://doi.org/10.1080/01468030.2025.2485871
 
 ------------------------------------------------------------------------
 
-👤 Author
+Author
 
 Emiliano-Ehecatl García-Unzueta
 
 ------------------------------------------------------------------------
 
-📜 License
-
+License
 
