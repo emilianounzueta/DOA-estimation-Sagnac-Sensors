@@ -7,7 +7,7 @@ from a fiber optic sensing system based on a Sagnac interferometer.
 The design of the sensing system is shown in Figure 1.
 
 <img src="figures/1.sagnac_sensor_system.png" alt="Sagnac Sensor" width="600">
-**Figure 1:** *Acoustic sensing system based on the Sagnac interferometer in optical fiber.*
+| **Figure 1:** *Acoustic sensing system based on the Sagnac interferometer in optical fiber.* |
 
   
 With this sensing system, the experimental design shown in Figure 2a is implemented. 
