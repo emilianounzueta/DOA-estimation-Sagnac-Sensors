@@ -32,6 +32,10 @@ The results are shown in Figures
 
 **Figure 4a.** *Results of CCV at 20cm.* **Figure 4a.** *Results of CCV at 30cm.*
 
+<img src="figures/6.results_ccv40.png" width="400"> | <img src="figures/6.results_ccv50.png" width="400">
+
+**Figure 4c.** *Results of CCV at 40cm.* **Figure 4d.** *Results of CCV at 50cm.*
+
 The project translates and extends MATLAB-based signal processing
 algorithms into Python, integrating tools commonly used in Data Science
 and Scientific Computing.
