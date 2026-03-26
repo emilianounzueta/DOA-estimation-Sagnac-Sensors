@@ -128,7 +128,7 @@ numpy scipy matplotlib jupyter
 
 ## Papers
 
-This code is result of the article published in "Sensors"
+This code is result of the article published in "Fiber and Integrated Optics "
 journal.
 
 > García-Unzueta, E.E.; Sandoval-Romero G. E.
