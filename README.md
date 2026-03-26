@@ -11,9 +11,6 @@ The design of the sensing system is shown in Figure 1.
 With this sensing system, the experimental design shown in Figure 2a is implemented. 
 The experimental setup is shown in Figure 2b. 
 
-
-| ![Experimental Design](figures/3.experimental_design.png) | ![Experiments](figures/4.experiments.png) |
-| :---: | :---: |
 | <img src="figures/3.experimental_design.png" width="400"> | <img src="figures/4.experiments.png" width="400"> |
 | **Figure 2a:** Experimental design for measurements. | **Figure 2b:** Experimental setup with sensors. |
 
