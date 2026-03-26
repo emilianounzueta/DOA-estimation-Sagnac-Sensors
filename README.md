@@ -1,5 +1,17 @@
 # Acoustic DOA Estimation using the CCV and MUSIC algotithms. 
 
+## Table of Contents
+- [Description](#description)
+- [Project Overview](#projectoverview)
+- [Methodology](#methodology)
+- [Notebooks](#notebooks)
+- [Datasets](#datasets)
+- [Installation](#installation)
+- [Requirements](#requirements)
+- [Papers](#papers)
+- [License](#license)
+
+## Description 
 This repository presents a complete and reproducible pipeline for
 Direction of Arrival (DOA) estimation using acoustic signals acquired
 from a fiber optic sensing system based on a Sagnac interferometer.
@@ -42,7 +54,7 @@ and Scientific Computing.
 
 ------------------------------------------------------------------------
 
-Project Overview
+## Project Overview
 
 The goal of this project is to estimate the angle of arrival of an
 acoustic source using experimental data and advanced signal processing
@@ -55,7 +67,7 @@ Two main methods are implemented and compared:
 
 ------------------------------------------------------------------------
 
-Methodology
+## Methodology
 
 CCV Method
 
@@ -72,7 +84,7 @@ MUSIC Algorithm
 
 ------------------------------------------------------------------------
 
-Notebooks
+## Notebooks
 
 01_signal_loading_and_fft.ipynb
 
@@ -89,7 +101,7 @@ Notebooks
 
 ------------------------------------------------------------------------
 
-Dataset
+## Dataset
 
 -   1024 samples
 -   13 positions
@@ -100,7 +112,7 @@ Structure: [samples, position, measurement]
 
 ------------------------------------------------------------------------
 
-Installation
+## Installation
 
 git clone https://github.com/emilianounzueta/acoustic-doa-estimation.git
 
@@ -108,15 +120,23 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------
 
-Requirements
+## Requirements
 
 numpy scipy matplotlib jupyter
 
 ------------------------------------------------------------------------
 
-Article
+## Papers
 
-https://doi.org/10.1080/01468030.2025.2485871
+This code is result of the article published in "Sensors"
+journal.
+
+> García-Unzueta, E.E.; Sandoval-Romero G. E. 
+> Acoustic Sensor System for Estimating the Angle of Arrival
+> of the Signal from a Source, Based on the Fiber Optic
+> Sagnac Interferometer. Fiber and Integrated Optics
+> Volume 44, 2025 - Issue 3
+> https://doi.org/10.1080/01468030.2025.2485871
 
 ------------------------------------------------------------------------
 
