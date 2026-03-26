@@ -131,11 +131,13 @@ numpy scipy matplotlib jupyter
 This code is result of the article published in "Sensors"
 journal.
 
-> García-Unzueta, E.E.; Sandoval-Romero G. E. 
+> García-Unzueta, E.E.; Sandoval-Romero G. E.
+> 
 > Acoustic Sensor System for Estimating the Angle of Arrival
 > of the Signal from a Source, Based on the Fiber Optic
 > Sagnac Interferometer. Fiber and Integrated Optics
 > Volume 44, 2025 - Issue 3
+> 
 > https://doi.org/10.1080/01468030.2025.2485871
 
 ------------------------------------------------------------------------
