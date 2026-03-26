@@ -15,7 +15,7 @@ With this sensing system, the experimental design shown in Figure 2a is implemen
 The experimental setup is shown in Figure 2b. 
 
 
-| <img src="figures/3.experimental_design.png" width="450"> | <img src="figures/4.experiments.png" width="300"> |
+<img src="figures/3.experimental_design.png" width="450"> | <img src="figures/4.experiments.png" width="300">
 
 **Figure 2a:** *Experimental design for measurements.* **Figure 2b:** *Experimental setup with sensors.*
 
@@ -23,13 +23,14 @@ The experimental setup is shown in Figure 2b.
 The real angles of the are calculated as shown in Figure 3. 
 
 <img src="figures/5.real_angles.png" alt="Real angles" width="500">
+
 **Figure 3:** *Real angles of the source.*
 
 The results are shown in Figures
 
-| ![DescripA](figures/6.results_ccv20.png) | ![DescripB](figures/6.results_ccv30.png) |
-| :---: | :---: |
-| **Figure 4a. Results of CCV at 20cm.| **Figure 4a. Results of CCV at 30cm |
+<img src="figures/6.results_ccv20.png" width="400"> | <img src="figures/6.results_ccv30.png" width="400">
+
+**Figure 4a.** *Results of CCV at 20cm.* **Figure 4a.** *Results of CCV at 30cm.*
 
 The project translates and extends MATLAB-based signal processing
 algorithms into Python, integrating tools commonly used in Data Science
