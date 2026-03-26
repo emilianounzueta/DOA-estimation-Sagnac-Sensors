@@ -5,16 +5,20 @@ Direction of Arrival (DOA) estimation using acoustic signals acquired
 from a fiber optic sensing system based on a Sagnac interferometer.
 
 The design of the sensing system is shown in Figure 1.
-<img src="figures/1.sagnac_sensor_system.png" alt="Sagnac Sensor" width="700">
-
+<center>
+<img src="figures/1.sagnac_sensor_system.png" alt="Sagnac Sensor" width="600">
+  
 **Figure 1:** *Acoustic sensing system based on the Sagnac interferometer in optical fiber.*
-
+<center>
+  
 With this sensing system, the experimental design shown in Figure 2a is implemented. 
 The experimental setup is shown in Figure 2b. 
 
-| <img src="figures/3.experimental_design.png" width="500"> | <img src="figures/4.experiments.png" width="300"> |
+<center>
+| <img src="figures/3.experimental_design.png" width="450"> | <img src="figures/4.experiments.png" width="300"> |
 | **Figure 2a:** *Experimental design for measurements.* | **Figure 2b:** *Experimental setup with sensors.* |
-
+<center>
+  
 The real angles of the are calculated as shown in Figure 3. 
 
 <img src="figures/5.real_angles.png" alt="Real angles" width="500">
